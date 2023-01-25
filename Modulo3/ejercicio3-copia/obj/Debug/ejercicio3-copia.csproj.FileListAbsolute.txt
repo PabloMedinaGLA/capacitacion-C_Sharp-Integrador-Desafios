@@ -1,0 +1,8 @@
+C:\Users\medin\Desktop\c#\DESAFIOS\Modulo3\ejercicio3-copia\bin\Debug\ejercicio3-copia.exe.config
+C:\Users\medin\Desktop\c#\DESAFIOS\Modulo3\ejercicio3-copia\bin\Debug\ejercicio3-copia.exe
+C:\Users\medin\Desktop\c#\DESAFIOS\Modulo3\ejercicio3-copia\bin\Debug\ejercicio3-copia.pdb
+C:\Users\medin\Desktop\c#\DESAFIOS\Modulo3\ejercicio3-copia\obj\Debug\ejercicio3-copia.csproj.AssemblyReference.cache
+C:\Users\medin\Desktop\c#\DESAFIOS\Modulo3\ejercicio3-copia\obj\Debug\ejercicio3-copia.csproj.SuggestedBindingRedirects.cache
+C:\Users\medin\Desktop\c#\DESAFIOS\Modulo3\ejercicio3-copia\obj\Debug\ejercicio3-copia.csproj.CoreCompileInputs.cache
+C:\Users\medin\Desktop\c#\DESAFIOS\Modulo3\ejercicio3-copia\obj\Debug\ejercicio3-copia.exe
+C:\Users\medin\Desktop\c#\DESAFIOS\Modulo3\ejercicio3-copia\obj\Debug\ejercicio3-copia.pdb

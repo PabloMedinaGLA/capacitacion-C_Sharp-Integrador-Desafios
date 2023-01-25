@@ -1,0 +1,8 @@
+C:\Users\medin\Desktop\c#\64287_CSHARP_Medina-Pablo_tm\Integrador\Integrador\obj\Debug\Integrador.csproj.AssemblyReference.cache
+C:\Users\medin\Desktop\c#\64287_CSHARP_Medina-Pablo_tm\Integrador\Integrador\obj\Debug\Integrador.csproj.SuggestedBindingRedirects.cache
+C:\Users\medin\Desktop\c#\64287_CSHARP_Medina-Pablo_tm\Integrador\Integrador\obj\Debug\Integrador.csproj.CoreCompileInputs.cache
+C:\Users\medin\Desktop\c#\64287_CSHARP_Medina-Pablo_tm\Integrador\Integrador\bin\Debug\Integrador.exe.config
+C:\Users\medin\Desktop\c#\64287_CSHARP_Medina-Pablo_tm\Integrador\Integrador\bin\Debug\Integrador.exe
+C:\Users\medin\Desktop\c#\64287_CSHARP_Medina-Pablo_tm\Integrador\Integrador\bin\Debug\Integrador.pdb
+C:\Users\medin\Desktop\c#\64287_CSHARP_Medina-Pablo_tm\Integrador\Integrador\obj\Debug\Integrador.exe
+C:\Users\medin\Desktop\c#\64287_CSHARP_Medina-Pablo_tm\Integrador\Integrador\obj\Debug\Integrador.pdb

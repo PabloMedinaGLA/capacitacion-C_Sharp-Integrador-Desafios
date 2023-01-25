@@ -1,0 +1,11 @@
+C:\Users\medin\Desktop\c#\64287_CSHARP_Medina-Pablo_tm\Modulo5\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\medin\Desktop\c#\64287_CSHARP_Medina-Pablo_tm\Modulo5\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\medin\Desktop\c#\64287_CSHARP_Medina-Pablo_tm\Modulo5\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\medin\Desktop\c#\64287_CSHARP_Medina-Pablo_tm\Modulo5\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\medin\Desktop\c#\64287_CSHARP_Medina-Pablo_tm\Modulo5\Ejercicio3\obj\Debug\Ejercicio3.csproj.SuggestedBindingRedirects.cache
+C:\Users\medin\Desktop\c#\64287_CSHARP_Medina-Pablo_tm\Modulo5\Ejercicio3\obj\Debug\Ejercicio3.Form1.resources
+C:\Users\medin\Desktop\c#\64287_CSHARP_Medina-Pablo_tm\Modulo5\Ejercicio3\obj\Debug\Ejercicio3.Properties.Resources.resources
+C:\Users\medin\Desktop\c#\64287_CSHARP_Medina-Pablo_tm\Modulo5\Ejercicio3\obj\Debug\Ejercicio3.csproj.GenerateResource.cache
+C:\Users\medin\Desktop\c#\64287_CSHARP_Medina-Pablo_tm\Modulo5\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\medin\Desktop\c#\64287_CSHARP_Medina-Pablo_tm\Modulo5\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\medin\Desktop\c#\64287_CSHARP_Medina-Pablo_tm\Modulo5\Ejercicio3\obj\Debug\Ejercicio3.pdb
